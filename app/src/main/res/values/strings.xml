@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MeterReadingAllPDAM</string>
+    <string name="header_login">METER READING</string>
+    <string name="hint_username">Username</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_konfigurasi">KONFIGURASI</string>
+    <string name="text_versi">Versi 1.0.0</string>
+    <string name="text_build">Build 7e1.5.1a-2.30.a</string>
+    <string name="header_config">KONFIGURASI IP DAN PORT WEBSERVICE</string>
+    <string name="hint_ip_port">Input IP dan PORT</string>
+    <string name="btn_sync_user">SINKRONISASI USER</string>
+    <string name="btn_sync_wilayah">SINKRONISASI WILAYAH</string>
+    <string name="btn_sync_wilayah_baca">SINKRONISASI WILAYAH BACA</string>
+    <string name="btn_sync_block">SINKRONISASI BLOK</string>
+    <string name="btn_sync_tarif">SINKRONISASI TARIF</string>
+    <string name="btn_sync_bpma">SYNCRONIZE BPMA</string>
+    <string name="btn_simpan">SIMPAN</string>
+    <string name="btn_kembali">Kembali</string>
+</resources>
